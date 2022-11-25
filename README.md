@@ -17,7 +17,6 @@
 <img src="https://github.com/matheusfmendes/certificados/blob/main/Certificado-4-1.jpg">
 <img src="https://github.com/matheusfmendes/certificados/blob/main/Certificado-3-1.jpg">
 <img src="https://github.com/matheusfmendes/certificados/blob/main/Certificado-2-1.jpg">
-<img src="https://github.com/matheusfmendes/certificados/blob/main/Certificado-1.jpg">
 <img src="https://github.com/matheusfmendes/certificados/blob/main/Certificado-1-1.jpg">
 <img src="https://github.com/matheusfmendes/certificados/blob/main/Certificado-1.jpg">
 <img src="https://github.com/matheusfmendes/certificados/blob/main/Certificado%20(1)-1.jpg">
