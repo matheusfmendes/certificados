@@ -11,13 +11,4 @@
 <img src="https://github.com/matheusfmendes/certificados/blob/main/Certificado_de_Concluso_-_14112022-2-1.jpg">
 <img src="https://github.com/matheusfmendes/certificados/blob/main/Certificado_de_Concluso_-_14112022-1.jpg">
 <img src="https://github.com/matheusfmendes/certificados/blob/main/Certificado_de_Concluso_-_14112022-1-1.jpg">
-<img src="https://github.com/matheusfmendes/certificados/blob/main/Certificado9-1.jpg">
-<img src="https://github.com/matheusfmendes/certificados/blob/main/Certificado-6-1.jpg">
-<img src="https://github.com/matheusfmendes/certificados/blob/main/Certificado-5-1.jpg">
-<img src="https://github.com/matheusfmendes/certificados/blob/main/Certificado-4-1.jpg">
-<img src="https://github.com/matheusfmendes/certificados/blob/main/Certificado-3-1.jpg">
-<img src="https://github.com/matheusfmendes/certificados/blob/main/Certificado-2-1.jpg">
-<img src="https://github.com/matheusfmendes/certificados/blob/main/Certificado-1-1.jpg">
-<img src="https://github.com/matheusfmendes/certificados/blob/main/Certificado-1.jpg">
-<img src="https://github.com/matheusfmendes/certificados/blob/main/Certificado%20(1)-1.jpg">
 <img src="https://github.com/matheusfmendes/certificados/blob/main/CERTIFICADO_-_COMUNICAO_EM_NEGCIOS_E_MDIAS_SOCIAIS-1.jpg">
